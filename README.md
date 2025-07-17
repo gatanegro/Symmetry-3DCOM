@@ -1,4 +1,4 @@
-##Paradigm Shift: Geometry \& Recursion over Group Postulates
+## Paradigm Shift: Geometry \& Recursion over Group Postulates
 
 Symmetry in 3DCOM: Defined by recursive, observer-dependent equivalence of attractor orbits—not by invariance under fixed isometry groups.
 
@@ -9,7 +9,7 @@ Metric tensor: Encodes angular field structure and recursive alignment, linking 
 Symmetry breaking: Natural and quantified by changes in recursive attractor amplitude, not by external perturbations.
 
 
- Takeaways for 3DCOM Symmetry Modeling
+ ## Takeaways for 3DCOM Symmetry Modeling
 
 - Redefine symmetry as recursion-invariant attractor patterns.
 - Build algebraic actions (Rθ, T, M, S) as functional operators on recursive orbits.
