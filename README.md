@@ -18,3 +18,5 @@ Symmetry breaking: Natural and quantified by changes in recursive attractor ampl
 - Simulate high-dimensional group behavior by dynamic geometry, not algebraic postulates.
 
 3DCOM symmetry is a shift: recursion and field geometry drive the emergence, persistence, and breaking of symmetric behavior in complex, octave-based systems.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16057953.svg)](https://doi.org/10.5281/zenodo.16057953)
